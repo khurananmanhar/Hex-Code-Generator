@@ -16,5 +16,14 @@
 }
 button{
   border-radius: 2em;
-  padding: .5em;
+  padding: .7em;
+  background-color: 	white;
+  border: black .3em solid;
+	outline: none;
+  
+}
+
+button:hover{
+  opacity: 3 ;
+	background-color: lightgrey;
 }
